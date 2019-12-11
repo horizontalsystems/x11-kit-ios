@@ -1,0 +1,16 @@
+PODS:
+  - X11Kit.swift (1.0)
+
+DEPENDENCIES:
+  - X11Kit.swift (from `../`)
+
+EXTERNAL SOURCES:
+  X11Kit.swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  X11Kit.swift: 6cfd05473e41c7b866c1a016300da02af63ad049
+
+PODFILE CHECKSUM: f130b9606e042b56db74f69aeac91472f568d541
+
+COCOAPODS: 1.8.4
