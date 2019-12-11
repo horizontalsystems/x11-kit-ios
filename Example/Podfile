@@ -1,0 +1,6 @@
+use_frameworks!
+target 'X11Kit_Tests' do
+  pod 'X11Kit', :path => '../'
+  
+  
+end
